@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nome": "notebook dell inspiron",
+        "preco": 3500
+    },
+    {
+        "id": 2,
+        "nome": "mouse logitech",
+        "preco": 120
+    },
+    {
+        "id": 3,
+        "nome": "teclado mecanico",
+        "preco": 250
+    }
+]
